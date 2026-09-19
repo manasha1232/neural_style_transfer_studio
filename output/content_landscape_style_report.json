@@ -1,0 +1,13 @@
+{
+    "content_image": "content_landscape.jpg",
+    "style_image": "style_starry_night.jpg",
+    "optimization_iterations": 50,
+    "processing_time_sec": 0.2541,
+    "content_loss": 25.3993,
+    "style_loss": 200.6419,
+    "total_loss": 226.0412,
+    "output_files": {
+        "stylized_artwork": "output\\content_landscape_stylized_by_style_starry_night.jpg",
+        "art_studio_montage": "output\\content_landscape_art_studio_montage.jpg"
+    }
+}
